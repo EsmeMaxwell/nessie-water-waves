@@ -7,7 +7,7 @@ Numerical tools to calculate dispersion relations and such like
 
 MATLAB library to calcaulte dispersion relations and other water wave properties.
 
-For solving Ralyeign instability equation with free-surface boundary, implements:
+For solving Rayleigh instability equation with free-surface boundary (dispersion relations for free surface waves), implements:
 
 - Optimised approximation schemes (Kirby & Chen and Ellingsen & Li)
 - A collocation method
